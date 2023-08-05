@@ -18,3 +18,5 @@ export const setProducts = (products) => {
       type: ActionTypes.REMOVE_SELECTED_PRODUCT,
     };
   };
+
+  
