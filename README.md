@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/83106116/178802206-951f8264-dfd7-4179-ad60-c4638b794ae4.png" alt="ShoopieShop"/>
 
 <br/>
-  <a href="https://shoppieshop.netlify.app//">View Deployed Website</a>
+  <a href="https://shopify-frontend-rishabh.netlify.app/">View Deployed Website</a>
 </p>
 
 ## Features and Interfaces
