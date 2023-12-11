@@ -124,7 +124,7 @@ PAYPAL_CLIENT_ID | paypal_client_id
 1. Install *Node.js*
 2. Install *npm*
 3. If you plan to use a local instance of *MongoDB database*, install *MongoDB atlas*.
-4. Clone this github repo `git clone https://github.com/Mitushi-23/ShoppieShop-eCommerce-Website.git`.
+4. Clone this github repo `git clone https://github.com/agnihotri099/Shopify`.
 5. In the local project directory, create a new file called "`.env`".
 6. Setup the environment variables as described above.
 7. Open the local project directory in a terminal, and run: `npm install`.
