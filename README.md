@@ -1,4 +1,4 @@
-# ShoppieShop-eCommerce-Website
+# Shopify
 
 
 <p align="center">
