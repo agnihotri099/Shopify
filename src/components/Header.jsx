@@ -22,7 +22,7 @@ const Header = () => {
   }
   return (
     <>
-      <Navbar bg="" expand="lg" collapseOnSelect>
+      <Navbar bg="dark" expand="lg" variant="dark" collapseOnSelect>
         <Container>
           <Link to="/" style={{ textDecoration: "none" }}>
             <Navbar.Brand><img src={logo} alt="" width="150px" style={{borderRadius:'50px'}}></img></Navbar.Brand>

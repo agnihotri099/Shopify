@@ -48,7 +48,7 @@ const Home = () => {
               products.map(
                 (product) =>
                   product.category.startsWith(cate) && (
-                    <Col key={product._id} md={3} style={{ height: "450px" }}>
+                    <Col key={product._id} md={4} style={{ height: "450px" }}>
                       <Product product={product} />
                     </Col>
                   )
