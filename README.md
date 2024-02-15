@@ -2,7 +2,8 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/83106116/178802206-951f8264-dfd7-4179-ad60-c4638b794ae4.png" alt="ShoopieShop"/>
+![image](https://github.com/agnihotri099/Shopify/assets/85986348/dc60662e-afef-4f32-a9ec-cdac1785f2e4)
+
 
 <br/>
   <a href="https://shopify-frontend-rishabh.netlify.app/">View Deployed Website</a>
