@@ -2,7 +2,8 @@
 
 
 <p align="center">
-![image](https://github.com/agnihotri099/Shopify/assets/85986348/dc60662e-afef-4f32-a9ec-cdac1785f2e4)
+<img src="https://github.com/agnihotri099/Shopify/assets/85986348/2690d9d6-81ec-42d8-91a1-f95348ee63d9.png" alt="ShoopieShop"/>
+
 
 
 <br/>
@@ -16,8 +17,11 @@
     <img width="857" alt="register" src="https://user-images.githubusercontent.com/83106116/178805793-80ccfe92-4447-4870-8193-0986e1f5f86a.png">
 
     - When password and confirm password are not same or the email id already exist, it will display an error message.
+
+
+
     
-     <img width="464" alt="differentPassword" src="https://user-images.githubusercontent.com/83106116/178804402-837c765d-dfdf-4615-aa87-fc6fb7961a84.png">  <img width="455" alt="mailexist" src="https://user-images.githubusercontent.com/83106116/178805226-f8529bb0-1a81-45ad-acc3-75a90183c79d.png">
+     <img width="464" alt="differentPassword" src="https://github.com/agnihotri099/Shopify/assets/85986348/acb45e52-820b-4678-8486-13ec4753cd72.png">  <img width="455" alt="mailexist" src="https://github.com/agnihotri099/Shopify/assets/85986348/f721daab-1dc8-4a60-ac7d-4c611425504e.png">
      
 2. Login Page
    - When the user already have an account and clicks the sign in button, he/she will be directed to the login page where the user needs to enter the registered email id.
@@ -25,14 +29,15 @@
    
    - If the user enters an incorrect password or tries to login by entering an unregisterted email id, it will display an error message.
    - 
-    <img width="474" alt="invalidemail" src="https://user-images.githubusercontent.com/83106116/178806294-de9168f6-f50e-4f06-8924-47f91bc26a37.png"> <img width="400" alt="invalidemail" src="https://user-images.githubusercontent.com/83106116/178807183-d6fa49aa-277c-4ce8-818c-e74196251084.png">
+    <img width="474" alt="invalidemail" src="https://github.com/agnihotri099/Shopify/assets/85986348/3652c260-02e1-466a-b7cc-221babd7be23.png"> <img width="400" alt="invalidemail" src="https://github.com/agnihotri099/Shopify/assets/85986348/e8768dc5-d028-40ba-82ef-22f1be8e8c00.png">
     
     - When the user enters valid email id and password, he/she will be allowed to add items to cart and buy them successfully. 
 
 4. Home Page
    - As soon as the user login successfully, it will direct to the home page.
    - Here the user can view the items to buy and add them to cart.
-    <img width="853" alt="home" src="https://user-images.githubusercontent.com/83106116/178802206-951f8264-dfd7-4179-ad60-c4638b794ae4.png">
+
+    <img width="853" alt="home" src="https://github.com/agnihotri099/Shopify/assets/85986348/47ce1142-7ebe-4536-9ce1-d9cfa8a28e5e.png">
 
    - The navbar has a filter by category option also. As soon as the user clicks the button the items will get filtered according to the value choosen.
     <img width="856" alt="filter" src="https://user-images.githubusercontent.com/83106116/178808617-b3735470-6ec4-435a-a0e2-9c0897a66cc0.png">
@@ -45,11 +50,14 @@
 
 6. Cart Page
    - When the user adds the item to cart, he/she is directed to cart page containing all the items that user wish to buy.
-    <img width="852" alt="cart" src="https://user-images.githubusercontent.com/83106116/178812219-03da7627-2501-476d-b17c-5c2c74259272.png">
+
+    <img width="852" alt="cart" src="https://github.com/agnihotri099/Shopify/assets/85986348/6991767a-c746-4682-a754-f024975c9312.png">
 
   - Cart page contains the proceed to checkout button where user can proceed further to buy their items.
   - The user is then asked to enter the address and the payment he wish to use.
-  <img width="455" alt="address" src="https://user-images.githubusercontent.com/83106116/178813159-2c03a5f5-e3c7-478c-942f-36e289ee1db2.png"> <img width="470" alt="paymentmethod" src="https://user-images.githubusercontent.com/83106116/178813235-e92f0889-85da-4231-912d-1917f0c37e6a.png">
+
+
+  <img width="455" alt="address" src="https://github.com/agnihotri099/Shopify/assets/85986348/b2fb8d23-7347-4311-ae8f-324b9729dc39.png"> <img width="470" alt="paymentmethod" src="https://github.com/agnihotri099/Shopify/assets/85986348/6c4953c8-0925-4c44-9d02-4b07f52af8e8.png">
 
 6. Place Order
   - when the user selects the payment option and clicks continue, he/she is then directed to order page where the order can be placed.
@@ -66,7 +74,7 @@
 7. Profile Page
   - The navbar has a dropdown on User's name from where user can click on profile button to update his/her profile.
   - User can also add image to look profile attractive.
-  <img width="852" alt="profile" src="https://user-images.githubusercontent.com/83106116/178816312-16365d52-0275-4fcc-8ba8-4dfc1cf64279.png">
+  <img width="852" alt="profile" src="https://github.com/agnihotri099/Shopify/assets/85986348/78f1181d-d9d5-4880-8d20-2c1b6147b1c2.png">
   
 8. My Orders Page
   - The navbar has a dropdown on User's name from where user can click on my order button to view order details.
